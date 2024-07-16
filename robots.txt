@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://freveymo.github.io/sitemap
+Sitemap: https://freveymo.github.io/app/sitemap
+Sitemap: https://freveymo.github.io/assets/sitemap
+Sitemap: https://freveymo.github.io/css/sitemap
+Sitemap: https://freveymo.github.io/includes/sitemap
+Sitemap: https://freveymo.github.io/item/sitemap
+Sitemap: https://freveymo.github.io/src/sitemap
